@@ -40,7 +40,7 @@ Special thanks to the developers of Streamlit, YouTube Transcript API, and Googl
 
 ## Results
 
-![image](https://github.com/user-attachments/assets/27e08a5d-1846-4180-8d77-a6b9527827c7)
+![image](https://github.com/user-attachments/assets/0545dbbf-a56e-4bcb-8849-61e908e690cd)
 
 ![image](https://github.com/user-attachments/assets/d16bedef-8260-428e-9b6c-154d496dd9c4)
 
